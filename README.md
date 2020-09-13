@@ -1,1 +1,1 @@
-# deep-anomaly-detection-in-hyperspectral-images-based-on-membership-maps-and-object-area-filtering
+# Deep Anomaly Detection in Hyperspectral Images Based on Membership Maps and Object Area Filtering
